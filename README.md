@@ -1,4 +1,4 @@
 # Community
 
 # About
-Welcome to the FilSwan community repository!
+Welcome to the Swan community repository!
